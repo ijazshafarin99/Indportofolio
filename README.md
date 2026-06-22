@@ -1,2 +1,2 @@
 # Indportofolio
-Menampilkan full code portofolio fresh graduate bahasa indonesia versi ijazshafarin99
+Menampilkan full code portofolio fresh graduate bahasa indonesia versi ijazshafarin99.
